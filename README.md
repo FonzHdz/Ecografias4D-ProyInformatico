@@ -3,7 +3,7 @@
 <div align="center">
 
   <br /><br />
-
+  [![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)]()
   [![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet)](https://dotnet.microsoft.com/)
   [![MongoDB](https://img.shields.io/badge/MongoDB-3.0-47A248?logo=mongodb)](https://www.mongodb.com/)
   [![Azure](https://img.shields.io/badge/Azure-Blob%20Storage-0078D4?logo=microsoft-azure)](https://azure.microsoft.com/)
@@ -14,7 +14,7 @@
 
 ## 📝 Descripción
 
-**Proyecto Informático** es un sistema de gestión integral diseñado para automatizar los procesos de información y documentación de un negocio familiar que ofrece servicios de ecografías 4D en la ciudad de Cali. El sistema permite gestionar pacientes, citas, diagnósticos, videos ecográficos e imágenes radiológicas, cumpliendo con estándares internacionales de gestión de información médica.
+**Ecografías 4D** es un sistema de gestión integral diseñado para automatizar los procesos de información y documentación de un negocio familiar que ofrece servicios de ecografías 4D en la ciudad de Cali. El sistema permite gestionar pacientes, citas, diagnósticos, videos ecográficos e imágenes radiológicas, cumpliendo con estándares internacionales de gestión de información médica.
 
 ---
 
@@ -49,11 +49,11 @@ El proyecto surge de la necesidad de una empresa familiar que:
 
 ### 🔧 **Backend**
 
-- ASP.NET Core 8.0 (MVC)
+- C# + ASP.NET Core 8.0 (MVC)
 - MongoDB 3.0 (Base de datos NoSQL)
 - Azure Blob Storage 12.23.0 (Almacenamiento de archivos)
 - fo-dicom 5.1.4 (Procesamiento de imágenes DICOM)
-- BCrypt.Net-Next 4.0.3 (Encriptación de contraseñas)
+- BCrypt.Net-Next 4.0.3 (Encriptación)
 
 ### 📧 **Comunicación**
 
