@@ -1,4 +1,4 @@
-# 🏥 Proyecto Informático - Sistema de Gestión de Ecografías 4D
+# 🏥 Sistema de Gestión de Ecografías 4D
 
 <div align="center">
 
